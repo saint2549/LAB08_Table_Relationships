@@ -1,0 +1,14 @@
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\controller\ProductController.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\model\Product.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\model\ProductDetail.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\model\Review.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\repository\ProductDetailRepository.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\repository\ProductRepository.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\repository\ReviewRepository.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\service\ProductService.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\strategy\DiscountContext.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\strategy\DiscountStrategy.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\strategy\MemberDiscountStrategy.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\strategy\NoDiscountStrategy.java
+C:\Users\saint\Documents\project_game_mid1\LAB08_Table_Relationships\src\main\java\com\example\demo\strategy\SeasonalSaleStrategy.java
